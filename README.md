@@ -12,4 +12,4 @@ Application gets and shows news via NewsAPI. Handling and parsing the JSON data.
 
 ## Screenshots
 
-<img src=https://github.com/notzie/NewsAPI/blob/main/Screenshots/1.png width=300><img src=https://github.com/notzie/NewsAPI/blob/main/Screenshots/2.png width=300><img src=https://github.com/notzie/NewsAPI/blob/main/Screenshots/3.png width=300>
+<img src=https://github.com/notzie/NewsAPI/blob/main/Screenshots/1.png width=250><img src=https://github.com/notzie/NewsAPI/blob/main/Screenshots/2.png width=250><img src=https://github.com/notzie/NewsAPI/blob/main/Screenshots/3.png width=250>
